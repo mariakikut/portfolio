@@ -42,6 +42,7 @@ header p {
   margin-left: 0.2rem;
   margin-bottom: 2.2rem;
   line-height: 1.5rem;
+  text-align: justify;
 }
 
 header p a {
